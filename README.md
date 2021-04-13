@@ -11,7 +11,7 @@ Por tal razón se realizará un Web Scraping a la página web de un sitio de ofe
 El título que se ha definido para el dataset de nuestro ejercicio práctico es "OfertasKao", el cual relaciona el tipo de ejercicio y el almacen de implementos deportivos elegidospara nuestra práctica.
 
 ## 3. Descripción del dataset. Desarrollar una descripción breve del conjunto de datos que se ha extraído (es necesario que esta descripción tenga sentido con el título elegido).
-El contenido del dataset es la marca, nombre del producto y precio de este último que son ofertados por la página web de Kao Sport Center como promoción.
+El contenido del dataset es la marca, nombre del producto y precio de este último que son ofertados por la página web de Kao Sport Center como una promoción.
 
 ## 4. Representación gráfica. Presentar esquema o diagrama que identifique el dataset visualmente y el proyecto elegido
 
